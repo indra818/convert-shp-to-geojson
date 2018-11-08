@@ -1,0 +1,25 @@
+{
+  "name": "convert-shp-to-geojson",
+  "version": "1.0.0",
+  "description": "Convert shapefile to GeoJSON file.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "shapefile",
+    "shp",
+    "geojson"
+  ],
+  "author": "Kyeongjin Kim",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-exec": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.11"
+  }
+}
